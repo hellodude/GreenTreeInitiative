@@ -1,0 +1,2 @@
+# GreenTreeInitiative
+static website
